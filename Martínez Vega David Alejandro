@@ -1,0 +1,16 @@
+La máquina de Von Neumann es un concepto teórico formulado por el matemático húngaroestadounidense John von Neumann.
+Supóngase un determinado problema simple, repetitivo y prolongado en el tiempo: por ejemplo, la extracción de mineral de hierro en la superficie de Marte.
+Una solución posible es enviar máquinas robotizadas que, de forma autónoma, extraigan el mineral y lo conviertan en lingotes de hierro, bien para su envío a la Tierra, 
+bien para su uso por colonias locales. Si una máquina extrae n toneladas en un determinado período de tiempo (ciclo), en m ciclos se tendrá m x n toneladas.
+Supóngase ahora un segundo tipo de máquina: una máquina que, además de producir lingotes de hierro, los trabaja para autorreplicarse, construyendo una máquina igual a ella misma.
+El rendimiento será menor que el de la primera máquina, pues parte del hierro lo utiliza en producir la segunda máquina, pero al cabo de un tiempo (generación), 
+no se tendrá una sino dos máquinas trabajando. Tras dos generaciones se tendrá cuatro máquinas, tras tres generaciones ocho máquinas, etcétera. 
+Se trata de una población que crece de forma exponencial.
+Así, aunque el rendimiento sea menor, la producción tenderá a crecer hasta superar la de la primera máquina. Como ejemplo, 
+tras diez generaciones habrá más de mil máquinas de Von Neumann (exactamente 1.024 = 210), 
+de manera que, aunque su rendimiento fuera del 5% de la primera máquina, la producción total sería más de 50 veces mayor.
+Este concepto no es solamente teórico: los virus informáticos son máquinas de Von Neumann. Ante el ingente trabajo de infectar el mayor número posible de ordenadores, 
+los virus se autorreplican pasando de ordenador a ordenador, 
+aumentando su población de forma exponencial e infectando así millones de ordenadores en pocas horas.
+Sin embargo, no solo hay aplicaciones negativas de este concepto. Los autómatas celulares tienen alto rango de aplicaciones en la ciencia, 
+modelando y simulando gran cantidad de sistemas físicos, como fluidos, flujo de tráfico, etc.
